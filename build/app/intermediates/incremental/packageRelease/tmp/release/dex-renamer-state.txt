@@ -1,0 +1,4 @@
+#Thu May 14 20:15:57 CLT 2020
+base.0=D\:\\Development\\Recetarium\\recetarium\\build\\app\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
